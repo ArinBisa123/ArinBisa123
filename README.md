@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Arrini Khirofati or known as @ArinBisa123
+# Welcome To My Profile :confetti_ball:
+-  👋 Hi, I’m Arrini Khirofati or known as @ArinBisa123
 - :star2: I'm an undergraduate student of informatics 
 - 👀 I’m interested in Web Development 
 - 🌱 I’m currently learning HTML,CSS,Javascript
@@ -11,6 +12,11 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&theme=algolia"/>
 </a>
 </p>
+
+### Now Playing 🎧
+
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/39hpcydhmo5d53rwj95iso45k?si=b5f8bf8a40e94d97)
+<br/>
 <!---
 ArinBisa123/ArinBisa123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
